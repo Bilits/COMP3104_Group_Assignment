@@ -1,3 +1,6 @@
+source: https://dzone.com/articles/know-more-about-devops-culture-sdlc-and-agile-deve
+
+
 It is hard to imagine life without software. Software has entered almost all the aspects of life, and there is an unending race to be at the top and move faster and be more Agile without having to compromise on security and dependability. This has led to increasing pressure about the completion of projects in a timely manner and that they should not be put on hold. This is the point where DevOps comes into play by getting various groups which are working in an organization to meaningfully collaborate over a set of shared goals of timely delivery of software to customers. The basic practices are getting the Dev and Ops teams to come on a common platform on a group of various Agile processes and tools for the delivery of software stated below:
 
     Testing and management of automated configuration.
@@ -64,4 +67,3 @@ devops and agile, sdlc
 
 
 
-source: https://dzone.com/articles/know-more-about-devops-culture-sdlc-and-agile-deve
