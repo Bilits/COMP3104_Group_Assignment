@@ -129,6 +129,7 @@ global software companies to adjust to the above with incremental development
 for producing the final product.
 
 
+
 Topics:
 devops and agile, sdlc
 
