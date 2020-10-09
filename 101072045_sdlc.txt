@@ -3,131 +3,133 @@ source: https://dzone.com/articles/know-more-about-devops-culture-sdlc-and-agile
 
 It is hard to imagine life without software. 
 Software has entered almost all the aspects of life,
- and there is an unending race to be at the top and move faster
- and be more Agile without having to compromise on security and dependability.
+and there is an unending race to be at the top and move faster
+and be more Agile without having to compromise on security and dependability.
 
-
- This has led to increasing pressure about the completion of projects in a 
-timely manner and that they should not be put on hold. 
-This is the point where DevOps comes into play by getting various groups which
- are working in an organization to meaningfully collaborate over a set of shared goals of timely delivery of software to customers. 
+This has led to increasing pressure about the completion of projects in a 
+timely manner and that they should not be put on hold. This is the point where 
+DevOps comes into play by getting various groups which are working in an 
+organization to meaningfully collaborate over a set of 
+shared goals of timely delivery of software to customers. 
 
 
 The basic practices are getting the Dev and Ops teams to come on a common 
 platform on a group of various Agile processes and tools for the delivery of 
 software stated below:
 
-    Testing and management of automated configuration.
-
-    Application and infrastructure code version control for enabling 
-	collaboration and rollbacks.
-
-    Automation of code builds by Continuous Integration for enabling 
-	quick feedback and even iteration via more frequent and releases with
-	 low risks.
+Testing and management of automated configuration.
+Application and infrastructure code version control for enabling collaboration and rollbacks.
+Automation of code builds by Continuous Integration for enabling quick feedback and 
+even iteration via more frequent and releases with low risks.
 
 DevOps thus presents a cultural perspective on how should everyone be engaged
- correctly.
-
+correctly.
 
 What is DevOps Culture?
-
 All businesses want to take up DevOps although not everyone who talks about it
- so frequently can understand it meaningfully. DevOps is focused on
- collaboration encouraged by culture, one of the basic pretexts on which this is founded in communication. 
-The information flow is basic to shared understanding and also 
-connecting different IT departments. 
-As the whole team is working towards a common goal, various barriers are broken, and the friction between developers is removed.
+so frequently can understand it meaningfully. 
+DevOps is focused on collaboration encouraged by culture, one of the basic 
+pretexts on which this is founded in communication. 
+The information flow is basic to shared understanding and also connecting 
+different IT departments. As the whole team is working towards a common goal, 
+various barriers are broken, and the friction between developers is removed.
 
 Thus, DevOps has a mutually beneficial relationship with Agile development,
- thus offering more flexibility than the other rigid 
-structures which were present in the IT arena. 
-The whole idea is directed at people working together and
- accepting change. It is this which allows the release of 
-high quality software, and at a faster delivery speed.
- In addition to the coordination, 
+thus offering more flexibility than the other rigid structures which 
+were present in the IT arena. The whole idea is directed at 
+people working together and accepting change. 
+It is this which allows the release of high quality software, 
+and at a faster delivery speed. In addition to the coordination, 
 the people-centric culture of DevOps is built on a particular viewpoint.
- It encourages a culture of open-mindedness, predictability, cross-skill 
+It encourages a culture of open-mindedness, predictability, cross-skill 
 training, and trying to do something extra. 
 Thus, there is a development of shared identity between different teams.
 Software Development Life Cycle
 
 SDLC stands for a process which throws light on the development, design, and
- even maintenance of the software project, making sure that all the functional
- and other user requirements are met. This methodology ensures the improvement 
-of the quality of the software project and the whole process of development of
- software.
+even maintenance of the software project, making sure that all the functional
+and other user requirements are met. 
+This methodology ensures the improvement of the quality of the software 
+project and the whole process of development of software.
 
 SDLC has four phases:
 
 Requirement Gathering & Analysis Phase: 
-This is the first and vital phase of SDLC, which is for the success of software. This is a typical phase where there is communication between various 
-stakeholders of the project team as various requirements are gathered from the
- clients.
+This is the first and vital phase of SDLC, which is for the success of software. 
+This is a typical phase where there is communication between various stakeholders 
+of the project team as various requirements are gathered from the clients.
 
-Design Phase: The design of the architecture is proposed for the project and is further caught in a design document.
+Design Phase: 
+The design of the architecture is proposed for the project 
+and is further caught in a design document.
 
 Development Phase: Being the longest project this forms an important step, as
- here the actual project is both developed and erected.
+here the actual project is both developed and erected.
 
-Testing Phase: This strategy of testing is seen in almost all stages of SDLC but in this phase testing only refers to the practice 
-where bugs and other defects of the system are reported,
- found and then corrected. The whole project is
- shifted to a particular test environment, and many different types of testing
- processes are taken up like functional, system, integration, and acceptance
- testing.
+Testing Phase: 
+This strategy of testing is seen in almost all stages of SDLC 
+but in this phase testing only refers to the practice where 
+bugs and other defects of the system are reported, found and then corrected. 
+The whole project is shifted to a particular test environment, 
+and many different types of testing processes are taken up like 
+functional, system, integration, and acceptance testing.
 
 Maintenance Phase: Once the system undergoes testing, it will go live.
- The system is first restricted to a limited user and then finally tested in a
- real business environment for UAT.
-Agile Development
+The system is first restricted to a limited user and then finally tested in a
+real business environment for UAT.
 
-Agile software development is a blanket term used for various set of frameworks and other practices which are based on values and principles. Agile, unlike
- other software development, has its focus on the people teams and how they are knit together. Solutions which are reached evolve through coordination between
- various cross-functional teams which use proper practices for their context.
- The focus thus lies on collaboration and self-organization of teams as the team together decides the next approach on things. 
-Agile is hence a mindset which is made up of values which are contained 
-in the Agile Manifesto. The whole idea
- behind Agile can be deduced from the first sentence of the Agile Manifesto,
- which says, “We are uncovering better ways of developing software by doing it
- and adjust accordingly."
+
+Agile Development
+Agile software development is a blanket term used for various set of 
+frameworks and other practices which are based on values and principles. 
+Agile, unlike other software development, has its focus on the people teams 
+and how they are knit together. 
+Solutions which are reached evolve through coordination 
+between various cross-functional teams which use proper practices for their context.
+The focus thus lies on collaboration and self-organization of teams as the team together 
+decides the next approach on things. Agile is hence a mindset which is made up 
+of values which are contained in the Agile Manifesto. 
+The whole idea behind Agile can be deduced from the first sentence of the Agile Manifesto,
+which says, “We are uncovering better ways of developing software by doing it
+and adjust accordingly."
 
 Agile software development thus focuses on the following core values:
 
-    Team interactions
+Team interactions
+Working software
+Customer collaboration
+Response to change
 
-    Working software
+Development at Agile: 
+A Brief Design and development are considered as the primary activities, 
+and they also include other activities like requirements elicitation and results.
 
-    Customer collaboration
-
-    Response to change
-
-Development at Agile: A Brief Design and development are considered as the
- primary activities, and they also include other activities like
- requirements elicitation and results.
-
-    Iteration spans all the activities.
-
-    All the steps are executed in a series of increments.
-
-    Agile model is flexible.
-
-    Focus is on the development of code and not documentation.
-
+Iteration spans all the activities.
+All the steps are executed in a series of increments.
+Agile model is flexible.
+Focus is on the development of code and not documentation.
 Agile thus provides a full and exhaustive set of software requirements.
- It curates the needs of the highly dynamic environment, and via an incremental development approach, it helps to develop the final product.
-Conclusion
+It curates the needs of the highly dynamic environment, 
+and via an incremental development approach, 
+it helps to develop the final product.
 
+
+Conclusion
 DevOps is a culture and not just a role. It has to be implemented across the
- company for it to work. Senior leadership also needs to be involved along with everyone. DevOps is thus concerned with continual learning and improvement.
- You thus develop more products and services with improved speed and quality.
+company for it to work. 
+Senior leadership also needs to be involved along with everyone. 
+DevOps is thus concerned with continual learning and improvement.
+You thus develop more products and services with improved speed and quality.
 
 The Software Development Life Cycle is an intricate process
- which involves various steps for delivering goals and objectives.
+which involves various steps for delivering goals and objectives.
 
 Agile plays a vital role in this era of fast-changing technology, enabling the
- global software companies to adjust to the above with incremental development
- for producing the final product.
+global software companies to adjust to the above with incremental development
+for producing the final product.
+
+
+
 Topics:
 devops and agile, sdlc
 
