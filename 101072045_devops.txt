@@ -1,7 +1,8 @@
 source: https://www.georgebrown.ca/programs/course-outlines
 
 
-In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to aworkplace environment to increase productivity.
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a 
+workplace environment to increase productivity.
 
 
  Analyze and evaluate various developer operation implementation 
