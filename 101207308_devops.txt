@@ -1,0 +1,4 @@
+This file will contain information about COMP 3104 DevOps course 
+
+DevOps is a set of practices that combines software development and IT operations.
+This course is held in George Brown College.

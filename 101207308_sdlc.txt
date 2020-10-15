@@ -1,0 +1,5 @@
+This file will contain details about important of learning DevOps engineer in software development cycle
+
+DevOps is a software development approach through which superior quality software can be developed quickly and with more reliability. It consists of various stages such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring.
+
+Refrence: https://www.edureka.co/blog/devops-lifecycle/#:~:text=DevOps%20is%20a%20practice%20that,%2C%20testing%2C%20deployment%2C%20operations.&text=DevOps%20is%20a%20software%20development,quickly%20and%20with%20more%20reliability.
