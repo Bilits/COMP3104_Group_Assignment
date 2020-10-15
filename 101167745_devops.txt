@@ -1,1 +1,11 @@
 This file contains information about DevOps course at George Brown College 
+
+Teacher's Name Pritesh.Patel
+Email Pritesh.Patel@georgebrown.ca
+Phone
+Office
+Out of Class Assistance
+Course Code COMP 3104
+Course Section: All
+Academic Year 2020-2021
+Term Fall 2020
