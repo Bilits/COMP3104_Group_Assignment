@@ -2,7 +2,7 @@
 DevOps Assignment 
 
 ## Members 
-Maxim Bondarenko
-Mohammad Abdolhosseini
-Seyed Ali Farahmand 
-Tanner Rizopoulos
+Maxim Bondarenko  
+Mohammad Abdolhosseini  
+Seyed Ali Farahmand  
+Tanner Rizopoulos  
